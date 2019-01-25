@@ -9,10 +9,10 @@
 *	@FILE					:	Project_SPI : main.c
 *	@AUTHOR				:	MASSICOT Jean-Gabriel
 *	@BOARD				:	STM32F407
-*	@BRIEF				: SPI manipulation and configuration to use the embedded accelerometer
-*	@EVOLUTION		:	In Progress 10%
+*	@BRIEF				: SPI configuration for exemple to use the embedded accelerometer
+*	@EVOLUTION		:	Finished 100%
 *	@FIRST COMMIT	:	13/12/2018
-*	@LAST COMMIT	:	25/01/2019 13h41
+*	@LAST COMMIT	:	25/01/2019 15h43
 *	@COMMIT INFO	:	
 *	@LICENCE			:	BSD-3Clause
 *
